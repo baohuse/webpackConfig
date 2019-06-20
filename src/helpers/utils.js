@@ -1,0 +1,1 @@
+export const des = '这里是一些公共函数，'
